@@ -1,0 +1,35 @@
+.x-btn-default-toolbar-small-focus {
+    border-color: #dff2b0;
+    background-image: none;
+    background-color: #f9ffe4;
+    background-image: -webkit-gradient(linear, 50% 0, 50% 100%, color-stop(0%, #f1ffe4),
+    color-stop(48%, #e1ffd9), color-stop(52%, #cef2c2), color-stop(100%, #dff6c6));
+    background-image: -webkit-linear-gradient(top, #f1ffe4, #e1ffd9 48%, #cef2c2 52%, #dff6c6);
+    background-image: -moz-linear-gradient(top, #f1ffe4, #e1ffd9 48%, #cef2c2 52%, #dff6c6);
+    background-image: -o-linear-gradient(top, #f1ffe4, #e1ffd9 48%, #cef2c2 52%, #dff6c6);
+    background-image: linear-gradient(top, #f1ffe4, #e1ffd9 48%, #cef2c2 52%, #dff6c6);
+}
+.x-btn-default-toolbar-small-menu-active, .x-btn-default-toolbar-small-pressed {
+    border-color: #8fc47a;
+    background-image: none;
+    background-color: #c8e5bc;
+    background-image: -webkit-gradient(linear, 50% 0, 50% 100%, color-stop(0%, #d0e5bc), color-stop(48%, #d8e7c5),
+    color-stop(52%, #b5f495), color-stop(100%, #c6f59f));
+    background-image: -webkit-linear-gradient(top, #d0e5bc, #d8e7c5 48%, #b5f495 52%, #c6f59f);
+    background-image: -moz-linear-gradient(top, #d0e5bc, #d8e7c5 48%, #b5f495 52%, #c6f59f);
+    background-image: -o-linear-gradient(top, #d0e5bc, #d8e7c5 48%, #b5f495 52%, #c6f59f);
+    background-image: linear-gradient(top, #d0e5bc, #d8e7c5 48%, #b5f495 52%, #c6f59f);
+}
+
+
+.x-toolbar-default {
+    border-color: #afe899;
+    border-width: 1px;
+    background-image: none;
+    background-color: #d7f1d3;
+    background-image: -webkit-gradient(linear, 50% 0, 50% 100%, color-stop(0%, #e5f5df), color-stop(100%, #d7f1d3));
+    background-image: -webkit-linear-gradient(top, #e5f5df, #d7f1d3);
+    background-image: -moz-linear-gradient(top, #e5f5df, #d7f1d3);
+    background-image: -o-linear-gradient(top, #e5f5df, #d7f1d3);
+    background-image: linear-gradient(top, #e5f5df, #d7f1d3);
+}

@@ -1,0 +1,15 @@
+
+#ide_img_ide{
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+@media (max-width: 991.98px) {
+    #ide_img_ide{
+        margin: 0 auto;
+        display: block;
+        width: 600px;
+    }
+}
